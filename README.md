@@ -13,11 +13,14 @@ Simple CLI: Easy-to-use command-line interface—just run the script and point t
 Sample Included: Get started immediately with the provided TGT.mp4 sample video.
 
 🛠️ Installation
+
 Clone the repository:
+
 git clone https://github.com/YOUR_USERNAME/ChromaStrip.git
 cd ChromaStrip
 
 Install required dependencies:
+
 pip install opencv-python
 
 ❓ How to Use :
